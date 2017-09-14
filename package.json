@@ -1,0 +1,21 @@
+{
+  "name": "8.2.3-vending-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jshintConfig": {
+    "esversion": 6
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "pg": "^6.4.2",
+    "sequelize": "^4.8.0"
+  }
+}
